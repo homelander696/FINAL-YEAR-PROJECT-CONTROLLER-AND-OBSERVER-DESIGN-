@@ -5,7 +5,7 @@
 clear; close all; clc;
 
 %% Simulation Parameters
-Tstop = 0.2;
+Tstop = 0.22;
 dt = 2e-5;
 tvec = 0:dt:Tstop;
 N = length(tvec);
